@@ -59,9 +59,9 @@
     </profiles>
     
     <scm>
-        <connection>scm:svn:https://source.sakaiproject.org/svn/pack/branches/pack-2.8.x</connection>
-        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/pack/branches/pack-2.8.x</developerConnection>
-        <url>https://source.sakaiproject.org/svn/pack/branches/pack-2.8.x</url>
+        <connection>scm:svn:https://source.sakaiproject.org/svn/pack/branches/pack-2.8.0</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/pack/branches/pack-2.8.0</developerConnection>
+        <url>https://source.sakaiproject.org/svn/pack/branches/pack-2.8.0</url>
     </scm>
     
     <distributionManagement>
