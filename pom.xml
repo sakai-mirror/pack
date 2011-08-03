@@ -21,7 +21,7 @@
     </organization>
 
     <properties>
-        <maven.prereq.version>2.0.10</maven.prereq.version>
+        <maven.prereq.version>2.2.1</maven.prereq.version>
         <sakai.plugin.version>2.2</sakai.plugin.version>
     </properties>
     
