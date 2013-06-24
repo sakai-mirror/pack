@@ -193,11 +193,11 @@
 	    <copy file="${basedir}/target/pack/conf/server-temp.xml"
 	        tofile="${basedir}/target/pack/conf/server.xml"
 	        overwrite="true">
-	        <filterset begintoken="maxHttpHeaderSize"
-	            endtoken="&quot;8192&quot;"
+	        <filterset begintoken="port"
+	            endtoken="&quot;8080&quot;"
 	            recurse="false">
 	            <filter token="="
-	                value="maxHttpHeaderSize=&quot;8192&quot; URIEncoding=&quot;UTF-8&quot;" />
+	                value="port&quot;8080&quot; URIEncoding=&quot;UTF-8&quot;" />
 	        </filterset>
 	    </copy>
 		<delete file="${basedir}/target/pack/conf/server-temp.xml" />
